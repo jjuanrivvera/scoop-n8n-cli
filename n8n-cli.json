@@ -6,7 +6,7 @@
             "bin": [
                 "n8nctl.exe"
             ],
-            "hash": "ff9bf291060d6b2d15005d3c12f7c5709fa767ec47952363573b33e03ae61319"
+            "hash": "c74a4706a2053026494b255ea5cfbc6c58cbf868ec8a3e770a4fdc21da4222f3"
         }
     },
     "homepage": "https://github.com/jjuanrivvera/n8n-cli",
