@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jjuanrivvera/n8n-cli/releases/download/v0.1.0/n8n-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "n8nctl.exe"
+            ],
+            "hash": "ff9bf291060d6b2d15005d3c12f7c5709fa767ec47952363573b33e03ae61319"
+        }
+    },
+    "homepage": "https://github.com/jjuanrivvera/n8n-cli",
+    "license": "MIT",
+    "description": "Command-line interface for the n8n workflow automation API"
+}
