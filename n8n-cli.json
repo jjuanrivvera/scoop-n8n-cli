@@ -1,12 +1,12 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/n8n-cli/releases/download/v0.5.2/n8n-cli_0.5.2_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/n8n-cli/releases/download/v0.5.3/n8n-cli_0.5.3_windows_amd64.zip",
             "bin": [
                 "n8nctl.exe"
             ],
-            "hash": "bf884975e1d673ce54008e919c730b4e1bdfec9edaf36dcda7e3dc9c66ea1eb6"
+            "hash": "4688006cadb8aa30b979ce1d1bb34989b00df0381ec0409a9eada4cf894a21c9"
         }
     },
     "homepage": "https://github.com/jjuanrivvera/n8n-cli",
